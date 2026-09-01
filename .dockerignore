@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+*.pyc
+.env
+.env.example
+pattern_lens.db
+.pytest_cache
+*.xlsx
+*.pdf
+README.md

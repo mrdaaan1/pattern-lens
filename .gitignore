@@ -4,4 +4,3 @@ __pycache__/
 *.pyc
 pattern_lens.db
 .pytest_cache/
-uv.lock
